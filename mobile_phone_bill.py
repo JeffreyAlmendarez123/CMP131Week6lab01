@@ -1,3 +1,7 @@
+#Jeffrey Almendarez
+#CMP131
+#LAB6
+#WEEK6
 package_price=99.00 #our price
 units_sold=int(input("Enter the number of units sold: "))
 if units_sold<=0:
